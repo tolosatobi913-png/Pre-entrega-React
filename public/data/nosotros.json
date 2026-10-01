@@ -1,0 +1,7 @@
+[
+{"id": 1, "nombre": "Juan Pérez", "puesto": "Fundador", "descripcion": "Juan es el fundador de nuestra empresa y tiene más de 10 años de experiencia en el sector.", "imagen": "https://via.placeholder.com/150"},
+{"id": 2, "nombre": "María López", "puesto": "Directora de Marketing", "descripcion": "María lidera nuestro equipo de marketing y ha trabajado en campañas exitosas para diversas marcas.", "imagen": "https://via.placeholder.com/150"},
+{"id": 3, "nombre": "Carlos García", "puesto": "Desarrollador Senior", "descripcion": "Carlos es un desarrollador senior con experiencia en múltiples lenguajes de programación y frameworks.", "imagen": "https://via.placeholder.com/150"},
+{"id": 4, "nombre": "Ana Torres", "puesto": "Diseñadora UX/UI", "descripcion": "Ana se encarga del diseño de la experiencia del usuario y la interfaz de nuestras aplicaciones.", "imagen": "https://via.placeholder.com/150"},
+{"id": 5, "nombre": "Luis Fernández", "puesto": "Gerente de Ventas", "descripcion": "Luis lidera nuestro equipo de ventas y se asegura de que nuestros clientes estén satisfechos.", "imagen": "https://via.placeholder.com/150"}
+]
